@@ -1,4 +1,5 @@
 # AWS Continuous Delivery Pipeline
+- This pipeline will cover the entire process from source code management to automated deployment
 - Creating an AWS Continuous delivery pipeline involves services and tools like;
 1. AWS Codepipeline
 2. AWS CodeBuild
@@ -7,3 +8,4 @@
 
 ## Architecture
 ![Architecture](https://d1.awsstatic.com/webteam/getting_started/GSRC%202020%20updates/DevOps%20Engineer/Module-5.7671640ce429a5183243197ef3c266bcd3d4aa20.png)
+
